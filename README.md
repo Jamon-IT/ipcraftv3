@@ -6,7 +6,7 @@
 
 **IPCraft** is a fast, lightweight subnet calculator and network reference tool built for IT students, sysadmins, and networking professionals. No install, no dependencies — just open and go.
 
-🔗 **[Live Demo →](#)**
+🔗 **[Live Demo →](#)* https://ipcraftv3.vercel.app/*
 
 ---
 
